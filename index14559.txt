@@ -3,29 +3,29 @@
    Ordered by: cumulative time
 
    ncalls  tottime  percall  cumtime  percall filename:lineno(function)
-        1    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\projects\githubProjects\Python\d_ninja_profile\d_ninja_profile\views.py:12(index)
-        1    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:328(__init__)
-        1    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:99(__init__)
-        1    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:139(charset)
-        1    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:30(__init__)
-        1    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:72(__setitem__)
-        2    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:41(_convert_to_charset)
+        1    0.000    0.000    0.000    0.000 C:\Users\UserA\projects\githubProjects\Python\d_ninja_profile\d_ninja_profile\views.py:12(index)
+        1    0.000    0.000    0.000    0.000 C:\Users\UserA\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:328(__init__)
+        1    0.000    0.000    0.000    0.000 C:\Users\UserA\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:99(__init__)
+        1    0.000    0.000    0.000    0.000 C:\Users\UserA\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:139(charset)
+        1    0.000    0.000    0.000    0.000 C:\Users\UserA\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:30(__init__)
+        1    0.000    0.000    0.000    0.000 C:\Users\UserA\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:72(__setitem__)
+        2    0.000    0.000    0.000    0.000 C:\Users\UserA\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:41(_convert_to_charset)
        11    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
-        1    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:350(content)
-        1    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\anaconda3\envs\WebDevDjango\lib\_collections_abc.py:766(__contains__)
-        1    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\anaconda3\envs\WebDevDjango\lib\abc.py:96(__instancecheck__)
-        2    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\anaconda3\envs\WebDevDjango\lib\site-packages\django\utils\datastructures.py:315(__getitem__)
-        1    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\anaconda3\envs\WebDevDjango\lib\site-packages\django\utils\functional.py:244(inner)
-        1    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:189(get)
+        1    0.000    0.000    0.000    0.000 C:\Users\UserA\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:350(content)
+        1    0.000    0.000    0.000    0.000 C:\Users\UserA\anaconda3\envs\WebDevDjango\lib\_collections_abc.py:766(__contains__)
+        1    0.000    0.000    0.000    0.000 C:\Users\UserA\anaconda3\envs\WebDevDjango\lib\abc.py:96(__instancecheck__)
+        2    0.000    0.000    0.000    0.000 C:\Users\UserA\anaconda3\envs\WebDevDjango\lib\site-packages\django\utils\datastructures.py:315(__getitem__)
+        1    0.000    0.000    0.000    0.000 C:\Users\UserA\anaconda3\envs\WebDevDjango\lib\site-packages\django\utils\functional.py:244(inner)
+        1    0.000    0.000    0.000    0.000 C:\Users\UserA\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:189(get)
         1    0.000    0.000    0.000    0.000 {built-in method _abc._abc_instancecheck}
-        1    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\anaconda3\envs\WebDevDjango\lib\_collections_abc.py:759(get)
-        1    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:262(make_bytes)
+        1    0.000    0.000    0.000    0.000 C:\Users\UserA\anaconda3\envs\WebDevDjango\lib\_collections_abc.py:759(get)
+        1    0.000    0.000    0.000    0.000 C:\Users\UserA\anaconda3\envs\WebDevDjango\lib\site-packages\django\http\response.py:262(make_bytes)
         2    0.000    0.000    0.000    0.000 {method 'encode' of 'str' objects}
         3    0.000    0.000    0.000    0.000 {method 'lower' of 'str' objects}
         1    0.000    0.000    0.000    0.000 {built-in method builtins.hasattr}
         1    0.000    0.000    0.000    0.000 {method 'search' of 're.Pattern' objects}
         1    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
-        1    0.000    0.000    0.000    0.000 C:\Users\LiorAsis\anaconda3\envs\WebDevDjango\lib\http\cookies.py:481(__init__)
+        1    0.000    0.000    0.000    0.000 C:\Users\UserA\anaconda3\envs\WebDevDjango\lib\http\cookies.py:481(__init__)
         1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
         1    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
 
